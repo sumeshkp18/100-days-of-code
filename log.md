@@ -4,7 +4,7 @@
 
 **Today's Progress**: Decided to start 100DaysOfCodes.
 
-**Thoughts:** I thought i will learn React native then build and deploy my own app in my phone.
+**Thoughts:** I thought I will learn React native then build and deploy my own app in my phone.
 
 **Link to work:** [React Native](http://www.example.comhttps://facebook.github.io/react-native/)
 
@@ -12,7 +12,7 @@
 
 **Today's Progress**: Setting up Project environment.
 
-**Thoughts:** I was bit diffuclt for me to set up the android studio in my machine. But I tried the Exxpo it worked well
+**Thoughts:** It was bit difficult for me to set up the android studio in my machine. But I tried the Exxpo it worked well!!
 
 **Link to work:** 
 1. [expo](https://expo.io/)
